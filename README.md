@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jp-post-codes
+- 👋 Hi, I’m @Jagannath-Panigrahi
 - 👀 I’m interested in data analysis,machine learning etc.
 - 🌱 I’m currently learning masters of data science.
 - 💞️ I’m looking to collaborate on machine learning projects.
